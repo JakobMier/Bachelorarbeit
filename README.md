@@ -18,4 +18,5 @@ loop_compass(); //Benötigt Magnetometer, MPU und Display | Gibt Kompass mit Was
 
 ![image](https://github.com/user-attachments/assets/f236d11e-e1dd-4853-b08f-4dfad1d9bc26)
 
+Aufbau des Gesamtsystems:
 ![image](https://github.com/user-attachments/assets/07071b4a-a0b6-4dbb-8857-623514b64501)
