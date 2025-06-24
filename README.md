@@ -14,7 +14,7 @@ loop_kuenstlicher_horizont(); //Benötigt MPU und Display | Gibt einen Künstlic
 ![image](https://github.com/user-attachments/assets/5501554e-eec0-4ecc-9ef5-35eeefd5118c)
 
 
-loop_compass(); //Benötigt Magnetometer, MPU und Display | Gibt Kompass mit Wasserwaag in der Mitte aus
+loop_compass(); //Benötigt Magnetometer, MPU und Display | Gibt Kompass mit Wasserwaage in der Mitte aus
 
 ![image](https://github.com/user-attachments/assets/f236d11e-e1dd-4853-b08f-4dfad1d9bc26)
 
